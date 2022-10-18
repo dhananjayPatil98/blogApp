@@ -27,50 +27,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Dependencies
 
-* image_picker
 * firebase_auth
 * firebase_database
 * firebase_storage
-
-## Demo
-
-### Firebase Database
-<p>
-<img src="https://github.com/HeliosX7/flutter-firebase-blog-app/blob/master/images/database.JPG" width="550" height="280">
-</p>
-<br>
-
-### Firebase Authentication
-<p>
-<img src="https://github.com/HeliosX7/flutter-firebase-blog-app/blob/master/images/login.jpg" width="280" height="550">
-<img src="https://github.com/HeliosX7/flutter-firebase-blog-app/blob/master/images/register.jpg" width="280" height="550">
-</p>
-<br>
-
-### Create
-<p>
-<img src="https://github.com/HeliosX7/flutter-firebase-blog-app/blob/master/images/post1.jpg" width="280" height="550">
-<img src="https://github.com/HeliosX7/flutter-firebase-blog-app/blob/master/images/post2.jpg" width="280" height="550">
-</p>
-<br>
-
-### Read
-<p>
-<img src="https://github.com/HeliosX7/flutter-firebase-blog-app/blob/master/images/feed1.jpg" width="280" height="550">
-<img src="https://github.com/HeliosX7/flutter-firebase-blog-app/blob/master/images/feed2.jpg" width="280" height="550">
-</p>
-<br>
-
-### Update
-<p>
-<img src="https://github.com/HeliosX7/flutter-firebase-blog-app/blob/master/images/update1.jpg" width="280" height="550">
-<img src="https://github.com/HeliosX7/flutter-firebase-blog-app/blob/master/images/update2.jpg" width="280" height="550">
-<img src="https://github.com/HeliosX7/flutter-firebase-blog-app/blob/master/images/update3.jpg" width="280" height="550">
-</p>
-<br>
-
-### Delete
-<p>
-<img src="https://github.com/HeliosX7/flutter-firebase-blog-app/blob/master/images/delete1.jpg" width="280" height="550">
-<img src="https://github.com/HeliosX7/flutter-firebase-blog-app/blob/master/images/delete2.jpg" width="280" height="550">
-</p>
